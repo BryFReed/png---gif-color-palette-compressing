@@ -2,11 +2,15 @@ Generates an image(png) with any number of colors based on another image(png)!
 
 New image can only support less or the same ammount of colors as the original 
 
-How to use: first command line argument is the location of the png
+How to use: 
+first command line argument is the location of the png
+
             second command line argument is the number of colors desired
 
 Example going from thousands of colors to just 256!
+
 | | | | | | | | | | | | | | | | | | | | | | | | | |
+
 V V V V V V V V V V V V V V V V V V V V V V V V V V
 
 ![aqua-hiroshima-toyo-carp-color-gradient-blue-magenta-png-favpng-FHPAxTPMH6HMMmErUPZRhQqAf](https://user-images.githubusercontent.com/71041401/175161720-1a889767-7953-48c6-922e-c40a1e5289db.png)
